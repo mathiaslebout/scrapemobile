@@ -1,0 +1,3 @@
+rootProject.name = 'scrapemobile'
+
+include ':app'
